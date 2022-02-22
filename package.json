@@ -1,6 +1,6 @@
 {
   "name": "lyy-react-native-china-unionpay",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "union-pay",
   "main": "src/index.js",
   "scripts": {
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/caipeiming/react-native-china-unionpay.git",
   "license": "MIT",
   "peerDependencies": {
+    "events": "^3.1.0",
     "react-native": "^0.41.2"
   },
   "dependencies": {
