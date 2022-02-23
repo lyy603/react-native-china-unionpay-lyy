@@ -1,6 +1,6 @@
 {
   "name": "lyy-react-native-china-unionpay",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "union-pay",
   "main": "src/index.js",
   "scripts": {
