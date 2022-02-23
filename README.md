@@ -1,5 +1,7 @@
 
-# react-native-china-unionpay
+# lyy-react-native-china-unionpay
+
+fork于react-native-china-unionpay(https://github.com/caipeiming/react-native-china-unionpay)
 
 [![npm version](https://img.shields.io/npm/v/react-native-china-unionpay.svg)](https://www.npmjs.com/package/react-native-china-unionpay)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
@@ -9,13 +11,13 @@
 
 ### React Native 0.60 或以上
 ```sh
-yarn add react-native-china-unionpay
+yarn add lyy-react-native-china-unionpay
 cd ios && pod install # for iOS
 ```
 ### React Native 0.59 以下
 ```sh
-yarn add react-native-china-unionpay
-react-native link react-native-china-unionpay
+yarn add lyy-react-native-china-unionpay
+react-native link lyy-react-native-china-unionpay
 ```
 ### iOS 配置
 - 在工程 info.plist 设置中添加一个 URL Types 回调协议，用于在支付完成后返回商户客户端。请注意 URL Schemes 需要是唯一的。
