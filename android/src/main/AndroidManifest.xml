@@ -12,6 +12,13 @@
     <uses-feature android:name="android.hardware.nfc.hce" />
     <uses-permission android:name="org.simalliance.openmobileapi.SMARTCARD" />
 
+    <queries>
+        <package android:name="com.unionpay" />
+        <package android:name="com.unionpay.tsmservice" />
+        <package android:name="com.unionpay.tsmservice.mi" />
+        <package android:name="com.huawei.wallet" />
+    </queries>
+
     <application>
 
         <uses-library
@@ -33,4 +40,4 @@
             android:windowSoftInputMode="adjustResize"></activity>
     </application>
 </manifest>
-  
+
