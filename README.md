@@ -1,4 +1,3 @@
-
 # lyy-react-native-china-unionpay
 
 fork于react-native-china-unionpay(https://github.com/caipeiming/react-native-china-unionpay)
